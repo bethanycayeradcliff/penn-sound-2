@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bernadette-mayer-this-is-a-list-of-fruit-and-vegetables/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Bernadette Mayer - This is a list of fruit and vegetables" ] },
+    "homepage": [
+      {
+        "id": "http://www.writing.upenn.edu/pennsound/x/deleted/Mayer.html",
+        "type": "Text",
+        "label": { "en": [ "Home page for Bernadette Mayer - This is a list of fruit and vegetables" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "http://www.writing.upenn.edu",
+        "type": "Agent",
+        "label": { "en": [ "Penn Sound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bernadette-mayer-this-is-a-list-of-fruit-and-vegetables/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 62.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bernadette-mayer-this-is-a-list-of-fruit-and-vegetables/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bernadette-mayer-this-is-a-list-of-fruit-and-vegetables/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/groups/Line-Reading-Series/4-18-00_Mayer/Mayer-Bernadette_10_This-is-a-list_Line-Reading-Series_4-18-00.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 62.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/penn-sound-2/bernadette-mayer-this-is-a-list-of-fruit-and-vegetables/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

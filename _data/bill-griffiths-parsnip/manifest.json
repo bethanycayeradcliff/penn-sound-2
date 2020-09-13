@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bill-griffiths-parsnip/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Bill Griffiths - Parsnip" ] },
+    "label": { "en": [ "Bill Griffiths  Parsnip" ] },
     "homepage": [
       {
         "id": "https://writing.upenn.edu/pennsound/x/Griffiths.php",
         "type": "Text",
-        "label": { "en": [ "Home page for Bill Griffiths - Parsnip" ] },
+        "label": { "en": [ "Home page for Bill Griffiths  Parsnip" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bill-griffiths-parsnip/canvas-1/canvas",
         "type": "Canvas",
-        "duration": :45,
+        "duration": 45.0,
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/penn-sound-2/bill-griffiths-parsnip/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://media.sas.upenn.edu/pennsound/authors/Griffiths/Griffiths-Bill_08_Parsnip_Buffalo_9-15-99.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                  "duration": :45
+                  "duration": 45.0
                 },
                 "target": "https://bethanycayeradcliff.github.io/penn-sound-2/bill-griffiths-parsnip/canvas-1/canvas"
               }

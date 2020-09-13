@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/penn-sound-2/charles-north-from-lineups-vegetables-1972-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Charles North From "Lineups: Vegetables," 1972 " ] },
+    "label": { "en": [ "Charles North From Lineups: Vegetables 1972 " ] },
     "homepage": [
       {
         "id": "https://writing.upenn.edu/pennsound/x/North.php",
         "type": "Text",
-        "label": { "en": [ "Home page for Charles North From "Lineups: Vegetables," 1972 " ] },
+        "label": { "en": [ "Home page for Charles North From Lineups: Vegetables 1972 " ] },
         "format": "text/html"
       }
     ],
